@@ -1,1 +1,1 @@
-console.log("NodeJS Lab 03 - Initial Setup of Project Structure");
+console.log("NodeJS Lab 03 - Initial Setup of Project Structure and Express Framework");
